@@ -258,7 +258,7 @@ span {
       cursor: pointer;
       border-radius: 50%;
       padding: 1rem;
-      background: orange;
+      background:var(--main-color);
 
 }
 
